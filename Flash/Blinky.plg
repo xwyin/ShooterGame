@@ -1,0 +1,3434 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+N:\MTE241\RTX_P4_demo\RTX_P4_demo\P4_demo.uvproj
+Project File Date:  12/01/2016
+
+<h2>Output:</h2>
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8468 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(22): warning:  #65-D: expected a ";"
+Main.c(313): warning:  #111-D: statement is unreachable
+Main.c(364): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8464 RO-data=6580 RW-data=3424 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8500 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8504 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8504 RO-data=6580 RW-data=3424 ZI-data=3040  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(111): error:  #147: declaration is incompatible with "void asteroids(void)" (declared at line 23 of "extraThreads.h")
+Main.c(273): error:  #20: identifier "t_asteroids" is undefined
+Main.c(273): error:  #167: argument of type "OS_TID" is incompatible with parameter of type "void (*)(void)"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+Main.c(380): error:  #147: declaration is incompatible with "OS_TID asteroids" (declared at line 111)
+Main.c(393): error:  #137: expression must be a modifiable lvalue
+Main.c(399): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+Main.c(393): error:  #137: expression must be a modifiable lvalue
+Main.c(399): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+Main.c(399): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8580 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+Main.c(399): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8580 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8596 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8592 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(319): warning:  #111-D: statement is unreachable
+Main.c(370): warning:  #111-D: statement is unreachable
+Main.c(399): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8580 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=6628 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(322): warning:  #111-D: statement is unreachable
+Main.c(373): warning:  #111-D: statement is unreachable
+Main.c(402): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8640 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(323): warning:  #111-D: statement is unreachable
+Main.c(374): warning:  #111-D: statement is unreachable
+Main.c(403): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8660 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(323): warning:  #111-D: statement is unreachable
+Main.c(374): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8728 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(323): warning:  #111-D: statement is unreachable
+Main.c(374): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8728 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(323): warning:  #111-D: statement is unreachable
+Main.c(374): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8724 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 4 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(323): warning:  #111-D: statement is unreachable
+Main.c(374): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8816 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8732 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8744 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 5 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+Main.c(425): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8736 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8940 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=8940 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8940 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8940 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(419): error:  #20: identifier "asteroidLength" is undefined
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(27): warning:  #65-D: expected a ";"
+Main.c(320): warning:  #111-D: statement is unreachable
+Main.c(371): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(481): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=8940 RO-data=6580 RW-data=8232 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(34): warning:  #65-D: expected a ";"
+Main.c(327): warning:  #111-D: statement is unreachable
+Main.c(378): warning:  #111-D: statement is unreachable
+Main.c(433): warning:  #111-D: statement is unreachable
+Main.c(485): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9064 RO-data=6580 RW-data=8248 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify Failed!
+Cannot access Memory
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(34): warning:  #65-D: expected a ";"
+Main.c(327): warning:  #111-D: statement is unreachable
+Main.c(378): warning:  #111-D: statement is unreachable
+Main.c(433): warning:  #111-D: statement is unreachable
+Main.c(485): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9064 RO-data=6580 RW-data=8248 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(36): warning:  #65-D: expected a ";"
+Main.c(329): warning:  #111-D: statement is unreachable
+Main.c(380): warning:  #111-D: statement is unreachable
+Main.c(435): warning:  #111-D: statement is unreachable
+Main.c(487): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9088 RO-data=6580 RW-data=8248 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(36): warning:  #65-D: expected a ";"
+Main.c(329): warning:  #111-D: statement is unreachable
+Main.c(380): warning:  #111-D: statement is unreachable
+Main.c(435): warning:  #111-D: statement is unreachable
+Main.c(487): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9168 RO-data=6580 RW-data=8248 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(299): error:  #20: identifier "m" is undefined
+Main.c(360): warning:  #111-D: statement is unreachable
+Main.c(411): warning:  #111-D: statement is unreachable
+Main.c(466): warning:  #111-D: statement is unreachable
+Main.c(518): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(360): warning:  #111-D: statement is unreachable
+Main.c(411): warning:  #111-D: statement is unreachable
+Main.c(466): warning:  #111-D: statement is unreachable
+Main.c(518): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9308 RO-data=6580 RW-data=8252 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(360): warning:  #111-D: statement is unreachable
+Main.c(411): warning:  #111-D: statement is unreachable
+Main.c(466): warning:  #111-D: statement is unreachable
+Main.c(518): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9308 RO-data=6580 RW-data=8252 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9702 RO-data=6578 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9702 RO-data=6578 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9702 RO-data=6578 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9702 RO-data=6578 RW-data=8260 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(234): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9606 RO-data=6578 RW-data=8260 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(361): warning:  #111-D: statement is unreachable
+Main.c(412): warning:  #111-D: statement is unreachable
+Main.c(467): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9316 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(362): warning:  #111-D: statement is unreachable
+Main.c(413): warning:  #111-D: statement is unreachable
+Main.c(468): warning:  #111-D: statement is unreachable
+Main.c(520): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9710 RO-data=6578 RW-data=8260 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(362): warning:  #111-D: statement is unreachable
+Main.c(413): warning:  #111-D: statement is unreachable
+Main.c(468): warning:  #111-D: statement is unreachable
+Main.c(520): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9710 RO-data=6578 RW-data=8260 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(544): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(362): warning:  #111-D: statement is unreachable
+Main.c(413): warning:  #111-D: statement is unreachable
+Main.c(468): warning:  #111-D: statement is unreachable
+Main.c(520): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9710 RO-data=6578 RW-data=8260 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(286): error:  #20: identifier "explsionBitmap" is undefined
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(415): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(415): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+linking...
+.\Flash\Blinky.axf: Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+.\Flash\Blinky.axf: Error: L6407E: Sections of aggregate size 0x27800 bytes could not fit into .ANY selector(s).
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(415): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9368 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(415): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+linking...
+.\Flash\Blinky.axf: Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+.\Flash\Blinky.axf: Error: L6407E: Sections of aggregate size 0x27800 bytes could not fit into .ANY selector(s).
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(415): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9364 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=8256 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(38): warning:  #65-D: expected a ";"
+Main.c(366): warning:  #111-D: statement is unreachable
+Main.c(417): warning:  #111-D: statement is unreachable
+Main.c(472): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+linking...
+.\Flash\Blinky.axf: Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+.\Flash\Blinky.axf: Error: L6407E: Sections of aggregate size 0xb600 bytes could not fit into .ANY selector(s).
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (43416 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (33816 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=13024 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (33816 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (32884 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=16268 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (33816 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=13056 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=13056 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(367): warning:  #111-D: statement is unreachable
+Main.c(418): warning:  #111-D: statement is unreachable
+Main.c(473): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9380 RO-data=6580 RW-data=13056 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(39): warning:  #65-D: expected a ";"
+Main.c(292): error:  #20: identifier "pausePlayer" is undefined
+Main.c(318): warning:  #111-D: statement is unreachable
+Main.c(369): warning:  #111-D: statement is unreachable
+Main.c(424): warning:  #111-D: statement is unreachable
+Main.c(476): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(126): error:  #65: expected a ";"
+Main.c(130): error:  #65: expected a ";"
+Main.c(337): warning:  #111-D: statement is unreachable
+Main.c(388): warning:  #111-D: statement is unreachable
+Main.c(443): warning:  #111-D: statement is unreachable
+Main.c(495): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(337): warning:  #111-D: statement is unreachable
+Main.c(388): warning:  #111-D: statement is unreachable
+Main.c(443): warning:  #111-D: statement is unreachable
+Main.c(495): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(337): warning:  #111-D: statement is unreachable
+Main.c(388): warning:  #111-D: statement is unreachable
+Main.c(443): warning:  #111-D: statement is unreachable
+Main.c(495): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(337): warning:  #111-D: statement is unreachable
+Main.c(388): warning:  #111-D: statement is unreachable
+Main.c(443): warning:  #111-D: statement is unreachable
+Main.c(495): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCStat (referred from adc.o).
+.\Flash\Blinky.axf: Error: L6218E: Undefined symbol ADCValue (referred from adc.o).
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(339): warning:  #111-D: statement is unreachable
+Main.c(390): warning:  #111-D: statement is unreachable
+Main.c(445): warning:  #111-D: statement is unreachable
+Main.c(497): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9352 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(340): warning:  #111-D: statement is unreachable
+Main.c(391): warning:  #111-D: statement is unreachable
+Main.c(446): warning:  #111-D: statement is unreachable
+Main.c(498): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9356 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(340): warning:  #111-D: statement is unreachable
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(449): warning:  #111-D: statement is unreachable
+Main.c(501): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9372 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(340): warning:  #111-D: statement is unreachable
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(449): warning:  #111-D: statement is unreachable
+Main.c(501): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9372 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(340): warning:  #111-D: statement is unreachable
+Main.c(405): warning:  #111-D: statement is unreachable
+Main.c(460): warning:  #111-D: statement is unreachable
+Main.c(512): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9384 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(340): warning:  #111-D: statement is unreachable
+Main.c(403): warning:  #111-D: statement is unreachable
+Main.c(479): warning:  #111-D: statement is unreachable
+Main.c(531): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9428 RO-data=6580 RW-data=14840 ZI-data=2992  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(548): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9556 RO-data=6580 RW-data=16300 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(548): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9568 RO-data=6580 RW-data=16300 ZI-data=2988  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(548): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9592 RO-data=6580 RW-data=13056 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(548): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9592 RO-data=6580 RW-data=13056 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(570): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9616 RO-data=6580 RW-data=13056 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(357): warning:  #111-D: statement is unreachable
+Main.c(420): warning:  #111-D: statement is unreachable
+Main.c(496): warning:  #111-D: statement is unreachable
+Main.c(570): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9616 RO-data=6580 RW-data=13056 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(503): warning:  #111-D: statement is unreachable
+Main.c(577): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+.\Flash\Blinky.axf: Error: L6407E: Sections of aggregate size 0xb608 bytes could not fit into .ANY selector(s).
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(503): warning:  #111-D: statement is unreachable
+Main.c(577): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9616 RO-data=6580 RW-data=13056 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(42): warning:  #65-D: expected a ";"
+Main.c(364): warning:  #111-D: statement is unreachable
+Main.c(427): warning:  #111-D: statement is unreachable
+Main.c(503): warning:  #111-D: statement is unreachable
+Main.c(577): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: error: L6047U: The size of this image (34072 bytes) exceeds the maximum allowed for this version of the linker
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(77): error:  #20: identifier "t_playerSpaceShip" is undefined
+Main.c(78): error:  #20: identifier "t_projectilesMovement" is undefined
+Main.c(79): error:  #20: identifier "t_buttonPress" is undefined
+Main.c(80): error:  #20: identifier "t_computerSpaceShip" is undefined
+Main.c(81): error:  #20: identifier "t_asteroid1" is undefined
+Main.c(82): error:  #20: identifier "t_asteroid2" is undefined
+Main.c(392): warning:  #111-D: statement is unreachable
+Main.c(455): warning:  #111-D: statement is unreachable
+Main.c(531): warning:  #111-D: statement is unreachable
+Main.c(605): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(438): warning:  #111-D: statement is unreachable
+Main.c(514): warning:  #111-D: statement is unreachable
+Main.c(588): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9796 RO-data=6580 RW-data=8256 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(438): warning:  #111-D: statement is unreachable
+Main.c(514): warning:  #111-D: statement is unreachable
+Main.c(588): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9796 RO-data=6580 RW-data=8256 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+Main.c(641): error:  #20: identifier "roundBitmap" is undefined
+Main.c(668): error:  #20: identifier "roundBitmap" is undefined
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+.\Flash\Blinky.axf: Error: L6406E: No space in execution regions with .ANY selector matching main.o(.data).
+.\Flash\Blinky.axf: Error: L6407E: Sections of aggregate size 0x27848 bytes could not fit into .ANY selector(s).
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=9804 RO-data=6580 RW-data=10128 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=9804 RO-data=6580 RW-data=10128 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10190 RO-data=6578 RW-data=10132 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(431): warning:  #111-D: statement is unreachable
+Main.c(507): warning:  #111-D: statement is unreachable
+Main.c(581): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10190 RO-data=6578 RW-data=10132 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(368): warning:  #111-D: statement is unreachable
+Main.c(437): warning:  #111-D: statement is unreachable
+Main.c(513): warning:  #111-D: statement is unreachable
+Main.c(587): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10198 RO-data=6578 RW-data=10132 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(365): warning:  #111-D: statement is unreachable
+Main.c(436): warning:  #111-D: statement is unreachable
+Main.c(512): warning:  #111-D: statement is unreachable
+Main.c(586): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10238 RO-data=6578 RW-data=11384 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 6 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(365): warning:  #111-D: statement is unreachable
+Main.c(436): warning:  #111-D: statement is unreachable
+Main.c(512): warning:  #111-D: statement is unreachable
+Main.c(586): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10238 RO-data=6578 RW-data=11384 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(372): warning:  #111-D: statement is unreachable
+Main.c(443): warning:  #111-D: statement is unreachable
+Main.c(519): warning:  #111-D: statement is unreachable
+Main.c(593): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10078 RO-data=6578 RW-data=11384 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(374): warning:  #111-D: statement is unreachable
+Main.c(445): warning:  #111-D: statement is unreachable
+Main.c(521): warning:  #111-D: statement is unreachable
+Main.c(595): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10094 RO-data=6578 RW-data=13184 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(446): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+Main.c(596): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10106 RO-data=6578 RW-data=13184 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(446): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+Main.c(596): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10106 RO-data=6578 RW-data=13184 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(446): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+Main.c(596): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10106 RO-data=6578 RW-data=13184 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(375): warning:  #111-D: statement is unreachable
+Main.c(446): warning:  #111-D: statement is unreachable
+Main.c(522): warning:  #111-D: statement is unreachable
+Main.c(596): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10106 RO-data=6578 RW-data=13184 ZI-data=6256  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(376): warning:  #111-D: statement is unreachable
+Main.c(447): warning:  #111-D: statement is unreachable
+Main.c(523): warning:  #111-D: statement is unreachable
+Main.c(597): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10126 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(377): warning:  #111-D: statement is unreachable
+Main.c(448): warning:  #111-D: statement is unreachable
+Main.c(524): warning:  #111-D: statement is unreachable
+Main.c(598): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10142 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(378): warning:  #111-D: statement is unreachable
+Main.c(449): warning:  #111-D: statement is unreachable
+Main.c(525): warning:  #111-D: statement is unreachable
+Main.c(599): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10154 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(379): warning:  #111-D: statement is unreachable
+Main.c(450): warning:  #111-D: statement is unreachable
+Main.c(526): warning:  #111-D: statement is unreachable
+Main.c(600): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10166 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(380): warning:  #111-D: statement is unreachable
+Main.c(451): warning:  #111-D: statement is unreachable
+Main.c(527): warning:  #111-D: statement is unreachable
+Main.c(601): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10190 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(382): warning:  #111-D: statement is unreachable
+Main.c(453): warning:  #111-D: statement is unreachable
+Main.c(529): warning:  #111-D: statement is unreachable
+Main.c(603): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10226 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(382): warning:  #111-D: statement is unreachable
+Main.c(453): warning:  #111-D: statement is unreachable
+Main.c(529): warning:  #111-D: statement is unreachable
+Main.c(603): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10226 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(384): warning:  #111-D: statement is unreachable
+Main.c(455): warning:  #111-D: statement is unreachable
+Main.c(531): warning:  #111-D: statement is unreachable
+Main.c(605): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10262 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(384): warning:  #111-D: statement is unreachable
+Main.c(455): warning:  #111-D: statement is unreachable
+Main.c(531): warning:  #111-D: statement is unreachable
+Main.c(605): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10262 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10302 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10302 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10302 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10310 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10298 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10298 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(387): warning:  #111-D: statement is unreachable
+Main.c(458): warning:  #111-D: statement is unreachable
+Main.c(534): warning:  #111-D: statement is unreachable
+Main.c(608): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10298 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(392): warning:  #111-D: statement is unreachable
+Main.c(463): warning:  #111-D: statement is unreachable
+Main.c(539): warning:  #111-D: statement is unreachable
+Main.c(613): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10390 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(392): warning:  #111-D: statement is unreachable
+Main.c(463): warning:  #111-D: statement is unreachable
+Main.c(539): warning:  #111-D: statement is unreachable
+Main.c(613): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10390 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(392): warning:  #111-D: statement is unreachable
+Main.c(463): warning:  #111-D: statement is unreachable
+Main.c(539): warning:  #111-D: statement is unreachable
+Main.c(613): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10262 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(393): warning:  #111-D: statement is unreachable
+Main.c(464): warning:  #111-D: statement is unreachable
+Main.c(540): warning:  #111-D: statement is unreachable
+Main.c(614): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10282 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+linking...
+Program Size: Code=10282 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 0 Warning(s).
+Build target 'Simulator'
+linking...
+Program Size: Code=10282 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 0 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(393): warning:  #111-D: statement is unreachable
+Main.c(464): warning:  #111-D: statement is unreachable
+Main.c(540): warning:  #111-D: statement is unreachable
+Main.c(614): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10262 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(393): warning:  #111-D: statement is unreachable
+Main.c(464): warning:  #111-D: statement is unreachable
+Main.c(540): warning:  #111-D: statement is unreachable
+Main.c(614): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10278 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(398): warning:  #111-D: statement is unreachable
+Main.c(469): warning:  #111-D: statement is unreachable
+Main.c(545): warning:  #111-D: statement is unreachable
+Main.c(619): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10366 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(399): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(546): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10382 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(399): warning:  #111-D: statement is unreachable
+Main.c(470): warning:  #111-D: statement is unreachable
+Main.c(546): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10382 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(400): warning:  #111-D: statement is unreachable
+Main.c(471): warning:  #111-D: statement is unreachable
+Main.c(547): warning:  #111-D: statement is unreachable
+Main.c(621): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10394 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(400): warning:  #111-D: statement is unreachable
+Main.c(471): warning:  #111-D: statement is unreachable
+Main.c(547): warning:  #111-D: statement is unreachable
+Main.c(621): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10394 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(400): warning:  #111-D: statement is unreachable
+Main.c(471): warning:  #111-D: statement is unreachable
+Main.c(547): warning:  #111-D: statement is unreachable
+Main.c(621): warning:  #111-D: statement is unreachable
+Main.c - 0 Error(s), 8 Warning(s).
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(231): warning:  #177-D: variable "m" was declared but never referenced
+Main.c(400): warning:  #111-D: statement is unreachable
+Main.c(471): warning:  #111-D: statement is unreachable
+Main.c(547): warning:  #111-D: statement is unreachable
+Main.c(621): warning:  #111-D: statement is unreachable
+Main.c - 0 Error(s), 8 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(392): warning:  #111-D: statement is unreachable
+Main.c(463): warning:  #111-D: statement is unreachable
+Main.c(539): warning:  #111-D: statement is unreachable
+Main.c(613): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10646 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(626): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(465): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(615): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10650 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(465): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(615): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10650 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(517): warning:  #111-D: statement is unreachable
+Main.c(593): warning:  #111-D: statement is unreachable
+Main.c(667): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10914 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(517): warning:  #111-D: statement is unreachable
+Main.c(593): warning:  #111-D: statement is unreachable
+Main.c(667): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=10874 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(517): warning:  #111-D: statement is unreachable
+Main.c(593): warning:  #111-D: statement is unreachable
+Main.c(667): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10874 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(517): warning:  #111-D: statement is unreachable
+Main.c(593): warning:  #111-D: statement is unreachable
+Main.c(667): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=10902 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11102 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Build target 'Simulator'
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 7 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+Main.c(751): error:  #137: expression must be a modifiable lvalue
+Main.c(778): error:  #137: expression must be a modifiable lvalue
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(43): warning:  #65-D: expected a ";"
+Main.c(394): warning:  #111-D: statement is unreachable
+Main.c(544): warning:  #111-D: statement is unreachable
+Main.c(620): warning:  #111-D: statement is unreachable
+Main.c(694): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(391): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(617): warning:  #111-D: statement is unreachable
+Main.c(691): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c(7): warning:  #177-D: variable "GIMP_IMAGE_pixel_data" was declared but never referenced
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 9 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(391): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(617): warning:  #111-D: statement is unreachable
+Main.c(691): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+extraThreads.c: Error:  #5: cannot open source input file "extraThreads.c": No such file or directory
+Target not created
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(391): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(617): warning:  #111-D: statement is unreachable
+Main.c(691): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 8 Warning(s).
+Rebuild target 'Simulator'
+assembling startup_LPC17xx.s...
+compiling system_LPC17xx.c...
+compiling RTX_Conf_CM.c...
+compiling GLCD_SPI_LPC1700.c...
+compiling LED.c...
+compiling Main.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+bitmaps.h(627): warning:  #1-D: last line of file ends without a newline
+Main.c(40): warning:  #65-D: expected a ";"
+Main.c(391): warning:  #111-D: statement is unreachable
+Main.c(541): warning:  #111-D: statement is unreachable
+Main.c(617): warning:  #111-D: statement is unreachable
+Main.c(691): warning:  #111-D: statement is unreachable
+Main.c(713): warning:  #111-D: statement is unreachable
+Main.c(786): warning:  #111-D: statement is unreachable
+compiling KBD.c...
+compiling ADC.c...
+ADC.h(20): warning:  #1-D: last line of file ends without a newline
+compiling extraThreads.c...
+linking...
+Program Size: Code=11098 RO-data=6578 RW-data=14436 ZI-data=6252  
+".\Flash\Blinky.axf" - 0 Error(s), 10 Warning(s).
+Load "N:\\MTE241\\RTX_P4_demo\\RTX_P4_demo\\Flash\\Blinky.AXF" 
+Erase Done.
+Programming Done.
+Verify OK.
